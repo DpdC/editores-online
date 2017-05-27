@@ -1,17 +1,14 @@
-# editores-online
-Citado y pequeña descripción de los editores de texto en línea o en la nube mejores y más reconocidos.
-
 # Editores en Línea / Online / Versión Web  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Colección de los editores de texto online más increíbles. Podrás codear al máximo sin necesidad de ningún tipo de Software, desde la nube.<div><img align="right" src="https://github.com/DpdC/editores-online/media/icon.png" alt="editor de texto online" height="120px" width="120px"></div>
+Colección de los editores de texto online más increíbles. Haz todo desde la nube!!!<div><img align="right" src="https://raw.githubusercontent.com/DpdC/editores-online/master/media/icon.png" alt="editor de texto online" height="120px" width="120px"></div>
 
 -----
 
 
 ## Contenidos
-  * [JS Fiddle](#JS-Fiddle)
-  * [JS Bin](#JS-Bin)
-  * [Dabllet](#Dabllet)
+  * [JS Fiddle](#js-fiddle)
+  * [JS Bin](#js-bin)
+  * [Dabblet](#dabblet)
   * [CodePen](#codepen)
   * [CSS Deck](#css-deck)
 
@@ -21,8 +18,8 @@ Colección de los editores de texto online más increíbles. Podrás codear al m
 ## JS Bin
 * [JS Bin](https://jsbin.com/) - Depuración Colaborativa de JS.
 
-## Dabllet
-* [Dabllet](http://dabblet.com/) - La primera línea comentada es el título de su dabblet.
+## Dabblet
+* [Dabblet](http://dabblet.com/) - La primera línea comentada es el título de su dabblet.
 
 ## CodePen
 * [CodePen](https://codepen.io/) - Patio del Recreo del Desarrollador Front-End & Editor de Código Web
