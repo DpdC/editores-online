@@ -1,6 +1,9 @@
 # Editores en Línea / Online / Versión Web  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<div><img align="right" src="https://raw.githubusercontent.com/DpdC/editores-online/master/media/icon.png" alt="editor de texto online" height="120px" width="120px"></div>Colección de los editores de texto online más increíbles. Haz todo desde la nube!!!
+<div><img align="right" src="https://raw.githubusercontent.com/DpdC/editores-online/master/media/icon.png" alt="editor de texto online" height="120px" width="120px"></div>
+<br>
+Colección de los editores de texto online más increíbles. Haz todo desde la nube!!!
+<br>
 
 -----
 
